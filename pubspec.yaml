@@ -1,7 +1,8 @@
-name: nyxx
+name: nyxx-flutter
 version: 0.3.0
-description: A Discord library for Dart.
+description: A Discord library without reflection.
 authors:
+- Jakub Tomana <jakub.tomana@protonmail.com>
 - Szymon Uglis <szymon.uglis@tuta.io>
 - Zach Vacura <admin@hackzzila.com>
 homepage: https://github.com/l7ssha/nyxx
