@@ -11,12 +11,14 @@ This is fork of [nyxx](https://github.com/l7ssha/nyxx/wiki), patched to work cor
 Commands and logging are removed, because flutter does not allows using reflection (`dart:mirrors`).  
 
 ### Instalation
+</div>
 ```
 nyxx:
     git: git://github.com/kubastick/nyxx-flutter.git
 ```  
-  
+<div align="center">
 ### Sample
+</div>
 Basic usage:
 ```dart
 void main() {
@@ -29,6 +31,7 @@ void main() {
   });
 }
 ```
+<div align="center">
 ## Documentation, help and examples
 
 #### [Discord API docs](https://discordapp.com/developers/docs/intro)
@@ -45,3 +48,4 @@ You can read about upcoming changes to the library on my website.
 
 #### [Wiki](https://github.com/l7ssha/nyxx/wiki)
 Wiki documentation are designed to match the latest Nyxx release.
+</div>
